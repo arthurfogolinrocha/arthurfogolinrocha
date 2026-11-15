@@ -11,16 +11,15 @@ Construo **agentes autônomos de IA**, sistemas de **visão computacional na bor
 
 ---
 
-### 🚀 Projetos em Destaque (Públicos)
+### 🚀 Conquistas & Projetos em Destaque
 
-| Projeto | Descrição | Stack Principal | Status |
+| Projeto | Descrição | Stack Principal | Acesso |
 | :--- | :--- | :--- | :--- |
-| 🏆 **[VitrineIQ Capim Dourado](https://github.com/arthurfogolinrocha/vitrineiq-hackarun-2026)** | **1º Lugar HackaRun 2026.** Inteligência comercial em tempo real para lojistas com maquete 3D Street View, Edge Vision LGPD e Copiloto Gemini (`216` testes). | `React 19` · `Three.js` · `YOLO` · `FastAPI` · `Gemini` | **[Ao Vivo](https://vitrineiq-capim-dourado.vercel.app)** |
-| ⚡ **[VitrineIQ API](https://github.com/arthurfogolinrocha/vitrineiq-hackarun-2026-api)** | Backend Python do VitrineIQ: Score de Oportunidade dinâmico (`0–100`), agente de IA `<300ms` com fallback heurístico e trilha de auditoria SHA-256. | `Python` · `FastAPI` · `pytest` | **[Swagger /docs](https://vitrineiq-hackarun-2026-api.vercel.app/docs)** |
-| 🌐 **[Portfólio Oficial](https://github.com/arthurfogolinrocha/arthurfogolin)** | Portfólio interativo com terminal CLI, assistente de IA integrado, benchmarks técnicos e showcase de sistemas em produção. | `HTML5` · `Tailwind` · `JavaScript` · `Vercel` | **[Ao Vivo](https://arthurfogolin.vercel.app)** |
-| 🤖 **[DIX BPO WhatsApp Agent](https://github.com/arthurfogolinrocha/dix-whatsapp-agent)** | Agente de triagem WhatsApp com máquina de estados, transcrição de áudio (Whisper) e extração estruturada de dados via LLM + n8n. | `Node.js` · `n8n` · `Whisper` · `LLM` | **Showcase Técnico** |
+| 🏆 **VitrineIQ Capim Dourado** | **1º Lugar HackaRun UniCatólica 2026.** Inteligência comercial em tempo real para lojistas com maquete 3D Street View, Edge Vision LGPD e Copiloto Gemini (`216` testes). *(Código-fonte & docs privados)* | `React 19` · `Three.js` · `YOLO` · `FastAPI` · `Gemini` | **[App ao Vivo](https://vitrineiq-capim-dourado.vercel.app)** · **[API /docs](https://vitrineiq-hackarun-2026-api.vercel.app/docs)** |
+| 🌐 **[Portfólio Oficial](https://github.com/arthurfogolinrocha/arthurfogolin)** | Portfólio interativo com terminal CLI, assistente de IA integrado, benchmarks técnicos e showcase de sistemas em produção. | `HTML5` · `Tailwind` · `JavaScript` · `Vercel` | **[arthurfogolin.vercel.app](https://arthurfogolin.vercel.app)** |
+| 🤖 **[DIX BPO WhatsApp Agent](https://github.com/arthurfogolinrocha/dix-whatsapp-agent)** | Agente de triagem WhatsApp com máquina de estados, transcrição de áudio (Whisper) e extração estruturada de dados via LLM + n8n. | `Node.js` · `n8n` · `Whisper` · `LLM` | **[Repositório Público](https://github.com/arthurfogolinrocha/dix-whatsapp-agent)** |
 
-> 🔒 *Sistemas corporativos em produção (como ERPs/estoque B2B, automações de atendimento com Kill-Switch e produtos SaaS proprietários) são mantidos em repositórios privados sob confidencialidade.*
+> 🔒 *Repositórios de código-fonte de projetos comerciais, MVPs proprietários (incluindo o VitrineIQ) e sistemas de clientes são mantidos privados.*
 
 ---
 
